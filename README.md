@@ -1,1 +1,17 @@
 # portfolio-projects
+
+Welcome to my README.md. I'm Russell! As I'm quite new to the environment of public repos, I thought I'd splash out and enjoy, as my fellow GitHub users seem to, I felt left out! As far as I'm concerned, everyone's a genius on here and I can't believe the amazing output that the community provides—it's like having digital doctors 24/7!
+
+A bit about myself (won't be long): Since I left school a million years ago, there was no option of the wonderful world I've been led into at present. In a literal sense, a computer looked like it did in the X-Files—black screens with dodgy green text that was difficult to see. Laptops didn't exist and networking wasn't really a word much used when dinosaurs existed! I worked in the motor trade for years, loved it, but a little time off brought me to the world of pressing buttons that make magic. Truth is, I got hacked and a good job was done on me. So, as is in my nature to investigate, I did! This led me to the world of cybersecurity and trying to learn what this word 'hacked' meant!
+
+Within 6 months I blasted out my first cert at the A+, which was a big achievement since I was lost in the tech universe. That was hard—anyone who knew me studying for it like I was, I feel your pain! But just wait till you pass—it's so worth it. Anyway, I've gone a bit deeper into this world studying networking, cloud, security, and pentesting. I love a project but I have to finish things 100% correctly, and through some great advice and sources in this community, I'm able to do so.
+
+My current project is probably the first that will appear. It seems every 5 minutes things are changing, as I'm sure you will agree—so keeping up means getting up!
+
+Right now, AI doesn't look like it's going to leave us. It will probably even beat us on our civilization to Mars on one of Elon's big boats, so I thought I'd add some to my security projects. I'm blasting through lab work in CompTIA Sec+, Pentest+, and now CEH. In fact, I was setting up my CEH lab last night gone 3am!
+
+This project hasn't got a verified name yet, but there are a few suggestions. I look around at these big corporate firms splashing out on £100,000 security bots scanning the world looking for threats and vulnerabilities. I paid for some different LLMs to see what kind of competition we all have. There is some clever stuff around. Some not so clever though.
+
+This project isn't really for corporations—it's for the general public. E.g., my mates aren't going to pay for a bot to help with their cybersecurity needs, nor do they have £100k spare for a specialist to nmap their kitchen with a massive set of documented results with graphs they wouldn't understand. This project is aimed at helping people understand the basics of risk analysis and to even know: 'are they really under cyber attack?' The plan is to create mini bots trained to do their own thing and nothing else. Using the knowledge I'm evolving into, not only replicates in me, but to teach them along with it. 
+
+My project first starts with the OSINT strategy: passive, then active recon. Then networking—a minefield and a superskill. Again, passive then active including wireless and Bluetooth, etc. There will be security patches, best practices, and easy cheap fixes that only take a single thought. I look to achieve about 10 bots as the journey carries on, but who knows!
